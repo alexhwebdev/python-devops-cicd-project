@@ -4,6 +4,7 @@ from typing import Collection
 
 logger = logging.getLogger(__name__)
 
+API_TOKEN = "ghp_Thislooks like a githubpersonalaccesstokenbutitdoesnotwork"
 
 def check_urls(
     urls: Collection[str], 
